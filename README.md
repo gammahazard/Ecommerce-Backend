@@ -57,7 +57,7 @@
 
   To clone the repo:
   
-      git clone 
+      git clone https://github.com/gammahazard/Ecommerce-Backend.git
   
 ---
 
