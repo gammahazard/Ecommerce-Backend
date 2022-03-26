@@ -9,6 +9,7 @@
   [A deployed version can be viewed here.:]
   
 	Walkthrough video can  be found here: https://vimeo.com/692494788/758002a3f6
+					part 2: https://vimeo.com/692497479/e46c1638d5
   
 ---
 
