@@ -8,7 +8,7 @@
 
   [A deployed version can be viewed here.:]
   
-  (N/A)
+	Walkthrough video can  be found here: https://vimeo.com/692494788/758002a3f6
   
 ---
 
@@ -32,16 +32,21 @@
 
 ## Visuals:
 
-  ![]()
+  ![]()![back-end](https://user-images.githubusercontent.com/92896466/160226013-a594b3ac-9612-4756-b3c5-7a762e511ed0.png)
+
 
 ---
 
 ## Installation:
   0. Clone the repository, inside the root of the directory create a file named '.env'.
   1. Inside your '.env' file, enter the following and replace DB_PW with your MySQL database password:
+  
 		DB_NAME=ecommerce_db
+		
 		DB_USER=root
+		
 		DB_PW= your MySQL password to connect to the MySQL server	
+		
   2. Run npm install to install the required packages for this application
   3. Ensure your mySQL server is running and run the schema.sql in the db folder.
   4. Next, in your command line run node seeds/index.js in order to seed the database with testing information.
